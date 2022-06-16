@@ -1,0 +1,35 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: O diretório intermediário (x64\Release\) contém arquivos compartilhados de outro projeto (FirstTutorialGame.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  win32_platform.cpp
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(43,40): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(44,31): warning C4244: '=': conversão de 'float' para 's16', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(49,40): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(50,31): warning C4244: '=': conversão de 'float' para 's16', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(56,40): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(57,31): warning C4244: '=': conversão de 'float' para 's16', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(62,40): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(63,31): warning C4244: '=': conversão de 'float' para 's16', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(69,40): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(70,31): warning C4244: '=': conversão de 'float' para 's16', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(75,40): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(76,31): warning C4244: '=': conversão de 'float' para 's16', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(117,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(118,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(119,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(120,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(137,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(138,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(139,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\renderer.cpp(140,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\game.cpp(121,28): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\game.cpp(191,74): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\game.cpp(191,58): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\game.cpp(192,74): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\game.cpp(192,58): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\game.cpp(255,37): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\game.cpp(259,46): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  Gerando código
+  Finalizada a geração de código
+  7 of 17 functions (41.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  SnakeGameAttempt1.vcxproj -> C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\x64\Release\Pong 1.1.exe

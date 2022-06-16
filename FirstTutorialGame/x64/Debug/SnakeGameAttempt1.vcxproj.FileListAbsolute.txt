@@ -1,0 +1,2 @@
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\SnakeGameAttempt1\x64\Debug\SnakeGameAttempt1.exe
+C:\Users\pdeni\Downloads\Code Adventures\C++\C++ Projects\FirstTutorialGame\x64\Debug\Pong 1.1.exe
